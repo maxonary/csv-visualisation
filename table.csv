@@ -1,0 +1,5 @@
+Algorithm/Data Structure,Date of Conceptualisation,Time Complexity worst case,Space Complexity,Main Use-Case,Benefits and Key Features,Contributing Computing Innovation,Example for Software, Computers, Components
+Queues,1837 (Analytical Engine),"Access O(n), Insertion/Deletion O(1)",O(n),Managing objects in order,"Load management, FIFO",Development of programming languages,Assembly language
+Arrays,1941,"Access O(1), Insertion/Deletion O(n)",O(n),Storing sequences of elements,"Simple, efficient access",Invention of programming languages,FORTRAN language, Zuse Z2
+Linked Lists,1955 (Newell, Shaw, Simon),"Access O(n), Insertion/Deletion O(1)",O(n),Dynamic data storage,"Flexible, dynamic storage insertion/deletion",Early software development,Lisp language
+Stacks,1955-1957,"Access O(1), Insertion/Deletion O(1)",O(n),Managing objects in order,"Load management, LIFO",Memory management in early computers,"'Call Stack' in computer programming"
