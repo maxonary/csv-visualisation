@@ -18,7 +18,7 @@ Bubble Sort;Late 1950s;"Best case O(n),
 Worst case O(n_)";O(1);Educational purposes, sorting in multiple runs;Simple, easy to understand;Early computer science education;Teaching in BASIC language
 Quick Sort;1960 (Hoare);"Best case O(n log n),
 Worst case O(n_)";O(n);General-purpose sorting;Fast, efficient;Rise of programming languages;C Standard Library
-Depth-First Search;"Late 19th century (Trémaux)
+Depth-First Search;"Late 19th century (Tr≈Ωmaux)
 ";O(V + E);O(V);Graph traversals;Space-efficient, finding all reachable nodes;Growth of graph theory and networks;ARPANET
 Breadth-First Search;1945 (Zuse);O(V + E);O(V);Graph traversals;Shortest path in unweighted graphs;;
 Bellman-Ford Algorithm;1958 (Bellman, Ford);O(V E);O(V) ;Shortest paths with negative weights;Handles negative weights;Network routing protocols;Cisco routers
